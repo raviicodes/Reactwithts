@@ -1,8 +1,11 @@
 {
     "problems": [
-      { "id": 1, "title": "Sum of Two Numbers", "level": "Easy","Description":"You are given two numbers a and b.You need to find the gcd of these two numbers."},
-      { "id": 2, "title": "Maximum Subarray sum", "level": "Medium","Description":"You are given an array of size n having real integers. Find the maximum subarray sum possible" }
+      { "id": 1, "title": "Sum of Two Numbers", "level": "Easy","Description":"You are given two numbers a and b.You need to find the gcd of these two numbers.","AskedIn":["tcs","Infosys","Accenture"],"topic":["Math"],"submissions":0},
+      { "id": 2, "title": "Maximum Subarray sum", "level": "Medium","Description":"You are given an array of size n having real integers. Find the maximum subarray sum possible","AskedIn":["Google","Zomato","Meta"],"topic":["Dynamic Programming","Array"],"submissions":0},
+      { "id": 3, "title": "Reverse an Integer", "level": "Medium","Description":"Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.","AskedIn":["Media.net","Adobe","Sap","Atlassian"],"topic":["Math","Bit Manipulation"],"submissions":0},
+      { "id": 4, "title": "Regular Expression Matching", "level": "Hard","Description":"Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where:'.', Matches any single character.​​​​'*' Matches zero or more of the preceding element.The matching should cover the entire input string (not partial).","AskedIn":["Google","Uber","Amazon"],"topic":["Dynamic Programming","Recursion"],"submissions":0}
     ]
+
     ,"submissions":[
          {"sid":1,"pid":1,"userid":1}
     ]
